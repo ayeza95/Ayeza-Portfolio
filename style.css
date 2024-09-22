@@ -378,7 +378,7 @@ span{
     transform: rotate(180deg);
     text-decoration: overline 2px rgb(214, 172, 64);
     text-underline-offset: 4px;
-    background-color: yellow;
+    margin-bottom: 12%;
 }
 #page4-box5{
     height: 90%;
